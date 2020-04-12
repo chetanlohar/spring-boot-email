@@ -27,6 +27,14 @@
             <artifactId>spring-boot-starter-mail</artifactId>
         </dependency>
 
+        <!-- For email template-->
+        <dependency>
+            <groupId>org.freemarker</groupId>
+            <artifactId>freemarker</artifactId>
+            <version>2.3.30</version>
+        </dependency>
+
+
     </dependencies>
 
     <build>

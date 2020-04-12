@@ -1,0 +1,10 @@
+<html>
+<head></head>
+<body>
+    <h2>Congratulations...</h2>
+    <p>Dear ${firstName} ${lastName},</p>
+    <p>Please find the docker image for future use.</p>
+    <p>Sending Email using Spring Boot with <b>FreeMarker template !!!</b></p>
+    <p>Thanks, Regards</p>
+</body>
+</html>

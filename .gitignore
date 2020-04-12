@@ -27,36 +27,7 @@ hs_err_pid*
 .idea/
 .mvn/
 *.iml
-antlr/target
-maas/target
-repairhandler/target
-ui/target
-lib-installer/target
-
-maas/LOG_PATH_IS_UNDEFINED/
-maas/LOG_FILE_IS_UNDEFINED
-maas/src/main/resources/public/
-
-ui/node/
-ui/node_modules/
-ui/dist/
+target
 
 # .DS_Store
 .DS_Store
-docker/.DS_Store
-maas/.DS_Store
-maas/src/.DS_Store
-maas/src/main/.DS_Store
-maas/src/main/java/.DS_Store
-maas/src/main/java/com/.DS_Store
-maas/src/test/.DS_Store
-maas/src/test/resources/.DS_Store
-repairhandler/.DS_Store
-repairhandler/src/.DS_Store
-repairhandler/src/main/.DS_Store
-repairhandler/src/main/java/.DS_Store
-repairhandler/src/main/java/com/.DS_Store
-repairhandler/src/main/java/com/edb/.DS_Store
-testcases/.DS_Store
-testcases/ExtractedDDLs/.DS_Store
-patches/
